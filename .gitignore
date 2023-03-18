@@ -1,0 +1,5 @@
+# 잡 파일
+*.bin
+*.lock
+*.xml
+*.class
