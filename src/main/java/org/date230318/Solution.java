@@ -1,8 +1,8 @@
-package org.day1;
+package org.date230318;
 
 
 /*
-23.03.18 프로그래머스 카드 뭉치
+23.03.18 프로그래머스 카드 뭉치, LV1, Practice
 https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=java
 */
 class Solution {
